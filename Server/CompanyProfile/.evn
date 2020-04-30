@@ -1,0 +1,1 @@
+DB_CONNECTION=mongodb+srv://anhpt103:1r0q5c3rewqA@cluster0-kjfj8.gcp.mongodb.net/rest?retryWrites=true&w=majority
